@@ -1,7 +1,5 @@
 package cat.itacademy.barcelonactiva.cognoms.nom.s04.t02.n02.model;
 
-import org.springframework.data.annotation.Id;
-
 import javax.persistence.*;
 
 @Entity
